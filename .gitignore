@@ -17,6 +17,14 @@
 *.pidb
 *.svd
 
+*.suo
+*.csproj
+*.sln
+obj
+Library/
+Temp/
+launch.json
+
 /Assets/StreamingAssets/*
 !/Assets/StreamingAssets/.gitkeep
 /ProjectSettings/ProjectVersion.txt
